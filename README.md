@@ -11,5 +11,4 @@ Soil moisture sensor Arduino The soil moisture sensor consists of two probes whi
 
 for Circuitry 
 
-![Rain-Detection-Sensor-with-Arduino](https://user-images.githubusercontent.com/109905492/198826518-240d1fff-690c-40d8-9bdc-efb4f219b997.png)
-
+![Soil-Moisture-Sensor-Connections](https://user-images.githubusercontent.com/109905492/198826618-ecdcca3c-bf01-405d-900c-6a7279389a15.png)
